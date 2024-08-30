@@ -1,0 +1,58 @@
+body {
+  padding: 20px;
+  margin: 20px;
+  background-image: url('/images/green_water.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+div {
+  background-color: #ffffff85;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  }
+
+h1, h2, h3 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+p {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  text-align: left;
+}
+
+.center-text {
+  text-align: center;
+}
+.flexbox {
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 15px;
+  }
+
+  .items {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: #ffffff7e
+    }
+  }
+   
+/* img colors
+#205444
+#b2c1ad
+#50c6b8
+#309fa8
