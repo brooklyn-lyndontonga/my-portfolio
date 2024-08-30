@@ -1,16 +1,16 @@
 body {
   padding: 20px;
   margin: 20px;
-  background-image: url('/images/green_water.jpeg');
+  background-image: url('/images/purple_foil.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   }
 div {
-  background-color: #ffffff85;
+  background-color: #2521329f;
   padding: 10px;
   margin: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #2521329f;
   border-radius: 15px;
   }
 
@@ -19,6 +19,7 @@ h1, h2, h3 {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -27,6 +28,7 @@ p {
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
+  color: #ffffff;
   text-align: left;
 }
 
@@ -52,7 +54,7 @@ p {
   }
    
 /* img colors
-#205444
-#b2c1ad
-#50c6b8
-#309fa8
+#252132
+#4451bb
+#f340d5
+#fedd6a
